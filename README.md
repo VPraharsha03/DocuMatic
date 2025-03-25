@@ -10,3 +10,5 @@ Key aspects of the project:
 - 🤗Experimented with 3 different SOTA Sentence Transformer models 🚀 to generate word embeddings.
 - 🔎Focusses on hybrid retrieval that makes use of BM25 for keyword or full-text search and Vector Embeddings for semantic search, & re-rank results with bge-reranker-base
 - ⛵Used Streamlit to design the UI
+
+![Watch Demo](https://github.com/VPraharsha03/DocuMatic/blob/main/demo/demo.mp4)
