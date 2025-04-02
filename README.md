@@ -11,4 +11,6 @@ Key aspects of the project:
 - 🔎Focusses on hybrid retrieval that makes use of BM25 for keyword or full-text search and Vector Embeddings for semantic search, & re-rank results with bge-reranker-base
 - ⛵Used Streamlit to design the UI
 
-![Watch Demo](https://github.com/VPraharsha03/DocuMatic/blob/main/demo/demo.mp4)
+Demo:
+
+![Watch Demo](https://github.com/VPraharsha03/DocuMatic/blob/main/demo/demo.gif)
